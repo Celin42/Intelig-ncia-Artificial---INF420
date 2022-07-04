@@ -1,3 +1,3 @@
-# Intelig-ncia-Artificial---INF420
+# Inteligencia-Artificial---INF420
 
-Nesse Repositório você irá encontrar meus trabalhos e atividades feitos na diciplina de Inteligência Artificial(INF 420)
+Nesse Repositório você irá encontrar meus projetos e atividades desenvolvidos na diciplina de Inteligência Artificial(INF 420)
