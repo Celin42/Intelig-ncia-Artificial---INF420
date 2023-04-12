@@ -7,4 +7,5 @@ Trabalho realizado no site codingame.com, do jogo Fantastic Bits, que consiste e
 e o objetivo é criar um bot (o bruxo que fica na vassoura) para jogar sozinho contra os codigos dos bots de outras pessoas.
 
 Desafio do kaggle:
-Consiste em criar um modelo de machine learning para resolver algum desafio do kaggle, que nesse caso é o do titanic, onde foi usado regressao logistica
+Consiste em criar um modelo de machine learning para resolver algum desafio do kaggle, que nesse caso é o do titanic, onde foi usado Logistic Regression e Random Forest,
+obtendo uma acurácia de 82% como máximo.
